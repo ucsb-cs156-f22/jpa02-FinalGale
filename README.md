@@ -5,7 +5,7 @@ Repo: https://ucsb-cs156-f22/jpa02-FinalGale
 
 On Heroku: https://jpa02-daniellu.herokuapp.com/
 
-git 
+
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
