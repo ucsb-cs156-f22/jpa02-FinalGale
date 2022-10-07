@@ -1,16 +1,11 @@
 # jpa02-FinalGale
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f22/jpa02-cgaucho
-
 Repo: https://ucsb-cs156-f22/jpa02-FinalGale
 
 
 On Heroku: https://jpa02-daniellu.herokuapp.com/
 
-
+git 
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
